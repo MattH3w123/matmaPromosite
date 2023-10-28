@@ -1,0 +1,1000 @@
+@media (max-width: 1400px) {
+    .container main section#baner .baner-opis-place {
+        width: 90%;
+    }
+
+    .container main section#baner {
+        height: auto;
+    }
+
+    .container main section#baner .baner-opis-place {
+        padding-top: 30px;
+        width: 80%;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block h1 {
+        font-size: 27pt;
+    }
+
+    .container main section#opis {
+        min-height: 47vh;
+    }
+
+    .container main section#opis .opis-1-place {
+        width: 80%;
+        height: 90%;
+    }
+
+    .container main section#opis .opis-1-place .opis-img .opis-img-container {
+        width: 240px;
+        height: 240px;
+    }
+}
+
+@media (max-width: 1280px) {
+    .container header {
+        padding: 0px 170px;
+    }
+
+    .container main section#baner {
+        height: auto;
+    }
+
+    .container main section#baner .baner-opis-place {
+        width: 90%;
+    }
+
+    .container main section#baner .baner-opis-place {
+        flex-direction: row;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block p {
+        font-size: 12pt;
+        padding: 0px 0px 20px 0px;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block h1 {
+        padding: 0px 0px 20px 0px;
+        font-size: 26pt;
+    }
+
+    .container main section#baner .baner-opis-place button {
+        width: 130px;
+        height: 35px;
+        margin: 8px 0px 8px 80px;
+    }
+
+    .container main section#baner .baner-opis-place button a:hover {
+        box-shadow: 0px 0px 15px 10px rgba(148, 0, 0, 0.267);
+    }
+
+    .container main section#baner .baner-opis-place .socials {
+        margin: 16px 0px 0px 30px;
+    }
+
+    .container main section#baner .baner-opis-place .socials a i {
+        font-size: 26pt;
+    }
+
+    .container main section#baner .baner-opis-place {
+        padding-top: 30px;
+        width: 80%;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block h1 {
+        font-size: 27pt;
+    }
+
+    .container main section#opis {
+        height: auto;
+        padding: 20px 0px;
+    }
+
+    .container main section#opis .opis-1-place {
+        width: 80%;
+        height: 90%;
+    }
+
+    .container main section#opis .opis-1-place .opis-img .opis-img-container {
+        width: 240px;
+        height: 240px;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place {
+        width: 90%;
+        gap: 40px;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place .my-job h1 {
+        font-size: 17pt;
+        color: red;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place .my-job p {
+        font-size: 15pt;
+    }
+    .container main section#opis-3 .opis-3-place {
+        width: 80%;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 h1 {
+        font-size: 16pt;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 p {
+        font-size: 14pt;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-img-c-3 .opis-img-container-3 {
+        width: 235px;
+        height: 235px;
+    }
+
+    .container main section#main-info .main-info-place {
+        width: 80%;
+        grid-template-columns: auto auto;
+        padding: 40px 30px;
+    }
+
+    .container main section#main-info .main-info-place .info-block {
+        width: 350px;
+        height: 190px;
+    }
+
+    .container main section#main-info .main-info-place .info-block .info-text h1 {
+        font-size: 15pt;
+    }
+
+    .container main section#main-info .main-info-place .info-block .info-text p {
+        font-size: 13pt;
+    }
+
+    .container footer {
+        padding: 30px 30px 15px;
+    }
+
+    .container footer .socials a i {
+        font-size: 24pt;
+    }
+
+    .container footer .navigation-f ul li {
+        display: flex;
+        justify-content: center;
+    }
+
+    .container footer .navigation-f ul li a {
+       margin: 15px;
+       font-size: 16pt;
+    }
+
+    .container footer .copyright p {
+        font-size: 15pt;
+    }
+}
+
+@media (max-width: 1024px) {
+    .container header {
+        padding: 0px 130px;
+    }
+
+    .container main section#baner {
+        height: auto;
+    }
+
+    .container main section#baner .baner-opis-place {
+        width: 90%;
+    }
+
+    .container main section#baner .baner-opis-place {
+        flex-direction: row;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block p {
+        font-size: 12pt;
+        padding: 0px 0px 20px 0px;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block h1 {
+        padding: 0px 0px 20px 0px;
+        font-size: 26pt;
+    }
+
+    .container main section#baner .baner-opis-place button {
+        width: 130px;
+        height: 35px;
+        margin: 8px 0px 8px 80px;
+    }
+
+    .container main section#baner .baner-opis-place button a:hover {
+        box-shadow: 0px 0px 15px 10px rgba(148, 0, 0, 0.267);
+    }
+
+    .container main section#baner .baner-opis-place .socials {
+        margin: 16px 0px 0px 30px;
+    }
+
+    .container main section#baner .baner-opis-place .socials a i {
+        font-size: 26pt;
+    }
+
+    .container main section#baner .baner-opis-place {
+        padding-top: 30px;
+        width: 80%;
+    }
+
+    .container main section#baner .baner-opis-place .baner-image-block {
+        width: 40%;
+    }
+
+    .container main section#baner .baner-opis-place .baner-image-block .baner-image-container-block::before {
+        box-shadow: 0px 0px 12px 12px rgba(172, 255, 47, 0.116);
+        border-radius: 73% 27% 76% 24% / 23% 63% 37% 77% ;
+    }
+
+    .container main section#opis {
+        height: auto;
+        padding: 25px 0px;
+    }
+
+    .container main section#opis .opis-1-place {
+        width: 90%;
+        height: 90%;
+        flex-direction: column;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text h1 {
+        font-size: 17pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text p {
+        font-size: 13pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-img .opis-img-container {
+        width: 245px;
+        height: 245px;
+    }
+
+    .container main section#opis-2-obrazy {
+        height: auto;
+        padding: 30px 0px;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place {
+        width: 90%;
+        gap: 40px;
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 40px;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place .my-job {
+        box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.479);
+    }
+    
+    .container main section#opis-2-obrazy .opis-2-place .my-job h1 {
+        font-size: 16pt;
+        color: red;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place .my-job p {
+        font-size: 15pt;
+    }
+
+    .container main section#opis-3 {
+        height: auto;
+        padding: 10px 0px;
+    }
+
+    .container main section#opis-3 .opis-3-place {
+        width: 95%;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 h1 {
+        font-size: 15pt;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 p {
+        font-size: 13pt;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-img-c-3 .opis-img-container-3 {
+        width: 225px;
+        height: 225px;
+    }
+
+    .container main section#main-info .main-info-place {
+        width: 90%;
+        grid-template-columns: auto auto;
+        padding: 40px 20px;
+    }
+
+    .container main section#main-info .main-info-place .info-block {
+        width: 350px;
+        height: 190px;
+    }
+
+    .container main section#main-info .main-info-place .info-block .info-text h1 {
+        font-size: 15pt;
+    }
+
+    .container main section#main-info .main-info-place .info-block .info-text p {
+        font-size: 13pt;
+    }
+
+    .container footer {
+        padding: 30px 30px 15px;
+    }
+
+    .container footer .navigation-row {
+        flex-direction: column;
+    }
+
+    .container footer .socials a i {
+        font-size: 24pt;
+    }
+
+    .container footer .navigation-f ul li {
+        display: flex;
+        justify-content: center;
+    }
+
+    .container footer .navigation-f ul li a {
+       margin: 10px;
+       font-size: 16pt;
+    }
+
+    .container footer .copyright p {
+        font-size: 15pt;
+    }
+}
+
+@media (max-width: 768px) {
+    .container header {
+        padding: 0px 70px;
+        gap: 10px;
+    }
+
+    .container main section#baner {
+        height: auto;
+        padding-top: 50px;
+    }
+
+    .container main section#baner .baner-opis-place {
+        width: 95%;
+    }
+
+    .container main section#baner .baner-opis-place {
+        flex-direction: column-reverse;
+        gap: 0px;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block {
+        padding: 20px 20px 20px 20px;
+        width: 90%;
+        align-items: center;
+        text-align: center;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block p {
+        font-size: 12pt;
+        padding: 0px 0px 20px 0px;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block h1 {
+        padding: 0px 0px 20px 0px;
+        font-size: 26pt;
+    }
+
+    .container main section#baner .baner-opis-place button {
+        width: 120px;
+        height: 35px;
+        margin: 8px 0px 8px 0px;
+    }
+
+    .container main section#baner .baner-opis-place button a {
+        font-size: 14pt;
+    }
+
+    .container main section#baner .baner-opis-place button a:hover {
+        box-shadow: 0px 0px 15px 10px rgba(148, 0, 0, 0.267);
+    }
+
+    .container main section#baner .baner-opis-place .socials {
+        margin: 8px 0px 0px 0px;
+    }
+
+    .container main section#baner .baner-opis-place .socials a i {
+        font-size: 26pt;
+        margin: 24px 0px 10px 0px;
+    }
+
+    .container main section#baner .baner-opis-place {
+        padding-top: 30px;
+        width: 90%;
+    }
+
+    .container main section#baner .baner-opis-place .baner-image-block {
+        width: 40%;
+    }
+
+    .container main section#baner .baner-opis-place .baner-image-block .baner-image-container-block::before {
+        box-shadow: 0px 0px 8px 8px rgba(172, 255, 47, 0.116);
+        border-radius: 73% 27% 76% 24% / 23% 63% 37% 77% ;
+    }
+
+    .container main section#opis {
+        height: auto;
+        padding: 25px 0px;
+    }
+
+    .container main section#opis .opis-1-place {
+        width: 90%;
+        height: 90%;
+        flex-direction: column;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text {
+        width: 80%;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text h1 {
+        font-size: 16pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text p {
+        font-size: 13pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text .see-more-button {
+        font-size: 15pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-img .opis-img-container {
+        width: 230px;
+        height: 230px;
+    }
+
+    .container main section#opis-2-obrazy {
+        height: auto;
+        padding: 30px 0px;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place {
+        width: 90%;
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 30px 50px;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place .my-job {
+        box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.479);
+    }
+    
+    .container main section#opis-2-obrazy .opis-2-place .my-job h1 {
+        font-size: 15pt;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place .my-job p {
+        font-size: 14pt;
+    }
+
+    .container main section#opis-3 {
+        height: auto;
+        padding: 10px 0px;
+    }
+
+    .container main section#opis-3 .opis-3-place {
+        width: 96%;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 h1 {
+        font-size: 14pt;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 p {
+        font-size: 13pt;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-img-c-3 .opis-img-container-3 {
+        width: 215px;
+        height: 215px;
+    }
+
+    .container main section#main-info .main-info-place {
+        width: 90%;
+        grid-template-columns: auto;
+        padding: 40px 20px;
+    }
+
+    .container main section#main-info .main-info-place .info-block {
+        width: 330px;
+        height: 170px;
+    }
+
+    .container main section#main-info .main-info-place .info-block .info-text h1 {
+        font-size: 15pt;
+    }
+
+    .container main section#main-info .main-info-place .info-block .info-text p {
+        font-size: 13pt;
+    }
+
+    .container footer {
+        padding: 30px 30px 15px;
+    }
+
+    .container footer .navigation-row {
+        flex-direction: column;
+    }
+
+    .container footer .socials a i {
+        font-size: 24pt;
+    }
+
+    .container footer .navigation-f ul li {
+        display: flex;
+        justify-content: center;
+    }
+
+    .container footer .navigation-f ul li a {
+       margin: 10px;
+       font-size: 16pt;
+    }
+
+    .container footer .copyright p {
+        font-size: 15pt;
+    }
+}
+
+@media (max-width: 600px) {
+    .container header {
+        padding: 0px 30px;
+        gap: 10px;
+    }
+
+    .container main section#baner {
+        height: auto;
+        padding-top: 50px;
+    }
+
+    .container main section#baner .baner-opis-place {
+        width: 95%;
+    }
+
+    .container main section#baner .baner-opis-place {
+        flex-direction: column-reverse;
+        gap: 0px;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block {
+        padding: 20px 20px 20px 20px;
+        width: 95%;
+        align-items: center;
+        text-align: center;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block p {
+        font-size: 12pt;
+        padding: 0px 0px 20px 0px;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block h1 {
+        padding: 0px 0px 20px 0px;
+        font-size: 23pt;
+    }
+
+    .container main section#baner .baner-opis-place button {
+        width: 110px;
+        height: 30px;
+        margin: 8px 0px 0px 0px;
+        box-shadow: 0px 0px 9px 6px rgba(148, 0, 0, 0.267);
+    }
+
+    .container main section#baner .baner-opis-place button a {
+        font-size: 13pt;
+    }
+
+    .container main section#baner .baner-opis-place button a:hover {
+        box-shadow: 0px 0px 9px 7px rgba(148, 0, 0, 0.267);
+    }
+
+    .container main section#baner .baner-opis-place .socials {
+        margin: 8px 0px 0px 0px;
+    }
+
+    .container main section#baner .baner-opis-place .socials a i {
+        font-size: 24pt;
+        margin: 14px 0px 10px 0px;
+    }
+
+    .container main section#baner .baner-opis-place {
+        padding-top: 30px;
+        width: 80%;
+    }
+
+    .container main section#baner .baner-opis-place .baner-image-block {
+        width: 70%;
+    }
+
+    .container main section#baner .baner-opis-place .baner-image-block .baner-image-container-block::before {
+        box-shadow: 0px 0px 8px 8px rgba(172, 255, 47, 0.116);
+        border-radius: 73% 27% 76% 24% / 23% 63% 37% 77% ;
+        top: -10px;
+        right: -10px;
+        bottom: -10px;
+        left: -10px;
+        width: calc(100% + 20px);
+        height: calc(100% + 20px);
+    }
+
+    .container main section#opis {
+        height: auto;
+        padding: 25px 0px;
+    }
+
+    .container main section#opis .opis-1-place {
+        width: 90%;
+        height: 90%;
+        flex-direction: column;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text {
+        width: 80%;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text h1 {
+        font-size: 16pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text p {
+        font-size: 13pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text .see-more-button {
+        font-size: 15pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-img {
+        width: 70%;
+    }
+
+    .container main section#opis .opis-1-place .opis-img .opis-img-container {
+        width: 210px;
+        height: 210px;
+    }
+
+    .container main section#opis-2-obrazy {
+        height: auto;
+        padding: 30px 0px;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place {
+        width: 90%;
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 30px;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place .my-job {
+        box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.479);
+    }
+    
+    .container main section#opis-2-obrazy .opis-2-place .my-job h1 {
+        font-size: 15pt;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place .my-job p {
+        font-size: 14pt;
+    }
+
+    .container main section#opis-3 {
+        height: auto;
+        padding: 10px 0px;
+    }
+
+    .container main section#opis-3 .opis-3-place {
+        width: 96%;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c {
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c:nth-child(2) {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 {
+        width: 80%;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 h1 {
+        font-size: 14pt;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 p {
+        font-size: 13pt;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-img-c-3 {
+        width: 80%;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-img-c-3 .opis-img-container-3 {
+        width: 215px;
+        height: 215px;
+    }
+
+    .container main section#main-info .main-info-place {
+        width: 90%;
+        grid-template-columns: auto;
+        padding: 40px 20px;
+    }
+
+    .container main section#main-info .main-info-place .info-block {
+        width: 330px;
+        height: 170px;
+    }
+
+    .container main section#main-info .main-info-place .info-block .info-text h1 {
+        font-size: 15pt;
+    }
+
+    .container main section#main-info .main-info-place .info-block .info-text p {
+        font-size: 13pt;
+    }
+
+    .container footer {
+        padding: 30px 30px 15px;
+    }
+
+    .container footer .navigation-row {
+        flex-direction: column;
+    }
+
+    .container footer .socials a i {
+        font-size: 24pt;
+    }
+
+    .container footer .navigation-f ul li {
+        display: flex;
+        justify-content: center;
+    }
+
+    .container footer .navigation-f ul li a {
+       margin: 10px;
+       font-size: 16pt;
+    }
+
+    .container footer .copyright p {
+        font-size: 15pt;
+    }
+}
+
+@media (max-width: 480px) {
+    .container header {
+        padding: 0px 30px;
+        gap: 10px;
+    }
+
+    .container main section#baner {
+        height: auto;
+        padding-top: 50px;
+    }
+
+    .container main section#baner .baner-opis-place {
+        width: 95%;
+    }
+
+    .container main section#baner .baner-opis-place {
+        flex-direction: column-reverse;
+        gap: 0px;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block {
+        padding: 20px 20px 20px 20px;
+        width: 95%;
+        align-items: center;
+        text-align: center;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block p {
+        font-size: 12pt;
+        padding: 0px 0px 20px 0px;
+    }
+
+    .container main section#baner .baner-opis-place .baner-text-block h1 {
+        padding: 0px 0px 20px 0px;
+        font-size: 23pt;
+    }
+
+    .container main section#baner .baner-opis-place button {
+        width: 110px;
+        height: 30px;
+        margin: 8px 0px 0px 0px;
+        box-shadow: 0px 0px 9px 6px rgba(148, 0, 0, 0.267);
+    }
+
+    .container main section#baner .baner-opis-place button a {
+        font-size: 13pt;
+    }
+
+    .container main section#baner .baner-opis-place button a:hover {
+        box-shadow: 0px 0px 9px 7px rgba(148, 0, 0, 0.267);
+    }
+
+    .container main section#baner .baner-opis-place .socials {
+        margin: 8px 0px 0px 0px;
+    }
+
+    .container main section#baner .baner-opis-place .socials a i {
+        font-size: 24pt;
+        margin: 14px 0px 10px 0px;
+    }
+
+    .container main section#baner .baner-opis-place {
+        padding-top: 30px;
+        width: 80%;
+    }
+
+    .container main section#baner .baner-opis-place .baner-image-block {
+        width: 70%;
+    }
+
+    .container main section#baner .baner-opis-place .baner-image-block .baner-image-container-block::before {
+        box-shadow: 0px 0px 8px 8px rgba(172, 255, 47, 0.116);
+        border-radius: 73% 27% 76% 24% / 23% 63% 37% 77% ;
+        top: -10px;
+        right: -10px;
+        bottom: -10px;
+        left: -10px;
+        width: calc(100% + 20px);
+        height: calc(100% + 20px);
+    }
+
+    .container main section#opis {
+        height: auto;
+        padding: 25px 0px;
+    }
+
+    .container main section#opis .opis-1-place {
+        width: 90%;
+        height: 90%;
+        flex-direction: column;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text {
+        width: 80%;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text h1 {
+        font-size: 16pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text p {
+        font-size: 13pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-1-text .see-more-button {
+        font-size: 15pt;
+    }
+
+    .container main section#opis .opis-1-place .opis-img {
+        width: 70%;
+    }
+
+    .container main section#opis .opis-1-place .opis-img .opis-img-container {
+        width: 210px;
+        height: 210px;
+    }
+
+    .container main section#opis-2-obrazy {
+        height: auto;
+        padding: 30px 0px;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place {
+        width: 90%;
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 30px;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place .my-job {
+        box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.479);
+    }
+    
+    .container main section#opis-2-obrazy .opis-2-place .my-job h1 {
+        font-size: 15pt;
+    }
+
+    .container main section#opis-2-obrazy .opis-2-place .my-job p {
+        font-size: 14pt;
+    }
+
+    .container main section#opis-3 {
+        height: auto;
+        padding: 10px 0px;
+    }
+
+    .container main section#opis-3 .opis-3-place {
+        width: 96%;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c {
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c:nth-child(2) {
+        flex-direction: column-reverse;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 {
+        width: 80%;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 h1 {
+        font-size: 14pt;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-text-con-3 p {
+        font-size: 13pt;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-img-c-3 {
+        width: 80%;
+    }
+
+    .container main section#opis-3 .opis-3-place .opis-3-container-c .opis-img-c-3 .opis-img-container-3 {
+        width: 215px;
+        height: 215px;
+    }
+
+    .container main section#main-info .main-info-place {
+        width: 90%;
+        grid-template-columns: auto;
+        padding: 40px 20px;
+    }
+
+    .container main section#main-info .main-info-place .info-block {
+        width: 330px;
+        height: 170px;
+    }
+
+    .container main section#main-info .main-info-place .info-block .info-text h1 {
+        font-size: 15pt;
+    }
+
+    .container main section#main-info .main-info-place .info-block .info-text p {
+        font-size: 13pt;
+    }
+
+    .container footer {
+        padding: 30px 30px 15px;
+    }
+
+    .container footer .navigation-row {
+        flex-direction: column;
+    }
+
+    .container footer .socials a i {
+        font-size: 24pt;
+    }
+
+    .container footer .navigation-f ul li {
+        display: flex;
+        justify-content: center;
+    }
+
+    .container footer .navigation-f ul li a {
+       margin: 10px;
+       font-size: 16pt;
+    }
+
+    .container footer .copyright p {
+        font-size: 15pt;
+    }
+}
